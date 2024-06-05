@@ -28,7 +28,7 @@ python evaluator.py \
     --dataset_dir <path/to/dataset/directory> \
     --output_dir <path/to/output/directory> \
     --evaluation_type xlingual \
-    --data_type test \
+    --data_type val \
     --xlingual_summarization_model_name_or_path <path/to/model/directory>
 ```
 
