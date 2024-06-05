@@ -4,8 +4,8 @@
 ## Setup
 ```
 $ git clone https://github.com/liaoxin-a/DPO_RuCnCrossSum
-$python -m nltk.downloader punkt
-$pip install --upgrade -r requirements.txt
+$ python -m nltk.downloader punkt
+$ pip install --upgrade -r requirements.txt
 ```
 
 ## Downloading data
