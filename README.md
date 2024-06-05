@@ -1,5 +1,4 @@
 # DPO_RuCnCrossSum
-# DPO_RuCnCrossSum
 
 ## Setup
 ```
@@ -9,7 +8,7 @@ $ pip install --upgrade -r requirements.txt
 ```
 
 ## Downloading data
-The dataset files are organized in `.json` format . **Download the dataset from [here]https://drive.google.com/file/d/1tg4TcU3GQDZeDZ2uDHbVw3PM1HWmmkLx/view?usp=drive_link).**
+The dataset files are organized in `.json` format . **Download the dataset from [here] https://drive.google.com/file/d/1tg4TcU3GQDZeDZ2uDHbVw3PM1HWmmkLx/view?usp=drive_link).**
 
 
 
